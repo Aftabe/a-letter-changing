@@ -1,0 +1,16 @@
+.heaing-primary {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.text-style {
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: red;
+    border-bottom: .2rem solid green    ;
+}
+
+.custm-btn {
+    font-size: 1.2rem;
+    color: green;
+}
